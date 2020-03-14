@@ -1,7 +1,11 @@
-# Jay Jang - Software Developer Portfolio: https://jjang3530.github.io/jayjangdev/
+# https://jjang3530.github.io/jayjangdev/
+## Jay Jang - Software Developer Portfolio
 Jay in Tech
+
 Skills
+
 Portfolio
+
 Experience
 
 ## License & copyright
